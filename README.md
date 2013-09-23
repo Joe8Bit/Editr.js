@@ -42,9 +42,9 @@ Put here your HTML, CSS, JS preprocessors. Contains LESS and CoffeeScript by def
 ## Dependencies
 
 * jQuery `//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js`
-* ACE Editor `https://rawgithub.com/ajaxorg/ace-builds/master/src/ace.js`
-* Emmet extension for ACE `https://rawgithub.com/ajaxorg/ace-builds/master/src/ext-emmet.js`
-* Emmet core `https://rawgithub.com/nightwing/emmet-core/master/emmet.js`
+* ACE Editor `https://raw.github.com/ajaxorg/ace-builds/master/src/ace.js`
+* Emmet extension for ACE `https://raw.github.com/ajaxorg/ace-builds/master/src/ext-emmet.js`
+* Emmet core `https://raw.github.com/nightwing/emmet-core/master/emmet.js`
 
 You also have to add parsers if you want to support preprocessors:
 
@@ -65,9 +65,9 @@ and this before `</body>`:
 
 ```html
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="https://rawgithub.com/ajaxorg/ace-builds/master/src/ace.js"></script>
-<script src="https://rawgithub.com/ajaxorg/ace-builds/master/src/ext-emmet.js"></script>
-<script src="https://rawgithub.com/nightwing/emmet-core/master/emmet.js"></script>
+<script src="https://raw.github.com/ajaxorg/ace-builds/master/src/ace.js"></script>
+<script src="https://raw.github.com/ajaxorg/ace-builds/master/src/ext-emmet.js"></script>
+<script src="https://raw.github.com/nightwing/emmet-core/master/emmet.js"></script>
 <script src="/editr/editr.js"></script>
 ```
 
